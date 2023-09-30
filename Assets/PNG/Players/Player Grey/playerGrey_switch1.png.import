@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1edhqdcdana0"
-path="res://.godot/imported/playerGrey_switch1.png-1603155a56074c1ddbb03b94285b80b6.ctex"
+path="res://.godot/imported/playerGrey_switch1.png-35cb6bcf949ee19c5a4d817f8ffa9cdd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Players/Player Grey/playerGrey_switch1.png"
-dest_files=["res://.godot/imported/playerGrey_switch1.png-1603155a56074c1ddbb03b94285b80b6.ctex"]
+source_file="res://assets/PNG/Players/Player Grey/playerGrey_switch1.png"
+dest_files=["res://.godot/imported/playerGrey_switch1.png-35cb6bcf949ee19c5a4d817f8ffa9cdd.ctex"]
 
 [params]
 

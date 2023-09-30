@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6pd861tlc01x"
-path="res://.godot/imported/outlineCrystal.png-6c502be27c6b665f15e73d5bc499e072.ctex"
+path="res://.godot/imported/outlineCrystal.png-994b1efa79c7544055f48a20c04d75f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Items/outlineCrystal.png"
-dest_files=["res://.godot/imported/outlineCrystal.png-6c502be27c6b665f15e73d5bc499e072.ctex"]
+source_file="res://assets/PNG/Items/outlineCrystal.png"
+dest_files=["res://.godot/imported/outlineCrystal.png-994b1efa79c7544055f48a20c04d75f0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ditg1sup2jx5r"
-path="res://.godot/imported/plantThorns_vertical.png-bc16410631add37685e5ed5af2792e13.ctex"
+path="res://.godot/imported/plantThorns_vertical.png-667082eddba02d83eab9ba4278b49bcf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/plantThorns_vertical.png"
-dest_files=["res://.godot/imported/plantThorns_vertical.png-bc16410631add37685e5ed5af2792e13.ctex"]
+source_file="res://assets/PNG/Other/plantThorns_vertical.png"
+dest_files=["res://.godot/imported/plantThorns_vertical.png-667082eddba02d83eab9ba4278b49bcf.ctex"]
 
 [params]
 

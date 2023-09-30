@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7gm4n7tknqxw"
-path="res://.godot/imported/playerGreen_stand.png-33849f0a79e5f3a82e053dd1a1151bfb.ctex"
+path="res://.godot/imported/playerGreen_stand.png-86974f4b5d0be4301b041ba806458868.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Players/Player Green/playerGreen_stand.png"
-dest_files=["res://.godot/imported/playerGreen_stand.png-33849f0a79e5f3a82e053dd1a1151bfb.ctex"]
+source_file="res://assets/PNG/Players/Player Green/playerGreen_stand.png"
+dest_files=["res://.godot/imported/playerGreen_stand.png-86974f4b5d0be4301b041ba806458868.ctex"]
 
 [params]
 

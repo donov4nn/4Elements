@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhjjokpkuvsia"
-path="res://.godot/imported/set2_hills.png-a9c51c7ef53c2b69f08829eee99cd8aa.ctex"
+path="res://.godot/imported/set2_hills.png-f823e24d7da592c098fe8d6c75cacff2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Backgrounds/set2_hills.png"
-dest_files=["res://.godot/imported/set2_hills.png-a9c51c7ef53c2b69f08829eee99cd8aa.ctex"]
+source_file="res://assets/PNG/Backgrounds/set2_hills.png"
+dest_files=["res://.godot/imported/set2_hills.png-f823e24d7da592c098fe8d6c75cacff2.ctex"]
 
 [params]
 

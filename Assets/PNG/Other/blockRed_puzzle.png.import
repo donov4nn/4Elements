@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://51wxyj8rlvr0"
-path="res://.godot/imported/blockRed_puzzle.png-7e3f996912e067ad67b46768450e3b45.ctex"
+path="res://.godot/imported/blockRed_puzzle.png-c8ab9287443daaeea1b3374e32363552.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/blockRed_puzzle.png"
-dest_files=["res://.godot/imported/blockRed_puzzle.png-7e3f996912e067ad67b46768450e3b45.ctex"]
+source_file="res://assets/PNG/Other/blockRed_puzzle.png"
+dest_files=["res://.godot/imported/blockRed_puzzle.png-c8ab9287443daaeea1b3374e32363552.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csb4nxielmlqx"
-path="res://.godot/imported/signArrow.png-0594325d838069d7b26bb163a8a1c7bf.ctex"
+path="res://.godot/imported/signArrow.png-7406731355c66b253fe7b2f1fbc33c48.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/signArrow.png"
-dest_files=["res://.godot/imported/signArrow.png-0594325d838069d7b26bb163a8a1c7bf.ctex"]
+source_file="res://assets/PNG/Other/signArrow.png"
+dest_files=["res://.godot/imported/signArrow.png-7406731355c66b253fe7b2f1fbc33c48.ctex"]
 
 [params]
 

@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="4Elements"
-run/main_scene="res://Scenes/World/World.tscn"
+run/main_scene="res://scenes/world/World.tscn"
 config/features=PackedStringArray("4.1", "Mobile")
 config/icon="res://icon.svg"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/wiggly_appendage_2d/plugin.cfg")
 
 [input]
 

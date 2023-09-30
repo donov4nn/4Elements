@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://did6x7k50wdr2"
-path="res://.godot/imported/vine.png-81040e583a83323af6eb2df22ce44cb4.ctex"
+path="res://.godot/imported/vine.png-6c4d32d7d3be6d32be264b980676e52b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/vine.png"
-dest_files=["res://.godot/imported/vine.png-81040e583a83323af6eb2df22ce44cb4.ctex"]
+source_file="res://assets/PNG/Other/vine.png"
+dest_files=["res://.godot/imported/vine.png-6c4d32d7d3be6d32be264b980676e52b.ctex"]
 
 [params]
 

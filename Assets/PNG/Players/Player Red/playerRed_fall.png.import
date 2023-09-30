@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4x24p0qxlolr"
-path="res://.godot/imported/playerRed_fall.png-4890276c52b8961445ddd3ff77ee64b4.ctex"
+path="res://.godot/imported/playerRed_fall.png-ef6bd2da92518a36c5107114aef00c88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Players/Player Red/playerRed_fall.png"
-dest_files=["res://.godot/imported/playerRed_fall.png-4890276c52b8961445ddd3ff77ee64b4.ctex"]
+source_file="res://assets/PNG/Players/Player Red/playerRed_fall.png"
+dest_files=["res://.godot/imported/playerRed_fall.png-ef6bd2da92518a36c5107114aef00c88.ctex"]
 
 [params]
 

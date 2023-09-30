@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqsyrra8laby0"
-path="res://.godot/imported/outlineJewel.png-1f45cc08804b462618a9f11d70295b56.ctex"
+path="res://.godot/imported/outlineJewel.png-ced573ab43e12b455b67e73dc152629f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Items/outlineJewel.png"
-dest_files=["res://.godot/imported/outlineJewel.png-1f45cc08804b462618a9f11d70295b56.ctex"]
+source_file="res://assets/PNG/Items/outlineJewel.png"
+dest_files=["res://.godot/imported/outlineJewel.png-ced573ab43e12b455b67e73dc152629f.ctex"]
 
 [params]
 

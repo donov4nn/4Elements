@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brl6fwdb5a50r"
-path="res://.godot/imported/puzzleGreen.png-8e5c3f5b0c71b9995c99409fc846b3fc.ctex"
+path="res://.godot/imported/puzzleGreen.png-893d8e10232ed140eaa5718844cefdbf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Items/puzzleGreen.png"
-dest_files=["res://.godot/imported/puzzleGreen.png-8e5c3f5b0c71b9995c99409fc846b3fc.ctex"]
+source_file="res://assets/PNG/Items/puzzleGreen.png"
+dest_files=["res://.godot/imported/puzzleGreen.png-893d8e10232ed140eaa5718844cefdbf.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fd88ij4iu3nk"
-path="res://.godot/imported/plantStem_cross.png-3426c2b69f5a3da8d8ebd68cbd986f19.ctex"
+path="res://.godot/imported/plantStem_cross.png-c4b3e6df1ef679a6812abd20e2122731.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/plantStem_cross.png"
-dest_files=["res://.godot/imported/plantStem_cross.png-3426c2b69f5a3da8d8ebd68cbd986f19.ctex"]
+source_file="res://assets/PNG/Other/plantStem_cross.png"
+dest_files=["res://.godot/imported/plantStem_cross.png-c4b3e6df1ef679a6812abd20e2122731.ctex"]
 
 [params]
 

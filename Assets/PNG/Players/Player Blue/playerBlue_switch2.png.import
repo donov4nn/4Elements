@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmyajor6ops80"
-path="res://.godot/imported/playerBlue_switch2.png-74264ff8766e1b4cbe79c4623b64390a.ctex"
+path="res://.godot/imported/playerBlue_switch2.png-d944de04af58efba3feca844d2006470.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Players/Player Blue/playerBlue_switch2.png"
-dest_files=["res://.godot/imported/playerBlue_switch2.png-74264ff8766e1b4cbe79c4623b64390a.ctex"]
+source_file="res://assets/PNG/Players/Player Blue/playerBlue_switch2.png"
+dest_files=["res://.godot/imported/playerBlue_switch2.png-d944de04af58efba3feca844d2006470.ctex"]
 
 [params]
 

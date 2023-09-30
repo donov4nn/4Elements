@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bioprur085i15"
-path="res://.godot/imported/plantTop_yellow.png-ae50a018099d9516bd91b738d38a5f93.ctex"
+path="res://.godot/imported/plantTop_yellow.png-619ab0d29a9f69a3d82e4d75b887217c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/plantTop_yellow.png"
-dest_files=["res://.godot/imported/plantTop_yellow.png-ae50a018099d9516bd91b738d38a5f93.ctex"]
+source_file="res://assets/PNG/Other/plantTop_yellow.png"
+dest_files=["res://.godot/imported/plantTop_yellow.png-619ab0d29a9f69a3d82e4d75b887217c.ctex"]
 
 [params]
 

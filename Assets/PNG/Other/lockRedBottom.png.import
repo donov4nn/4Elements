@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xoikffij62so"
-path="res://.godot/imported/lockRedBottom.png-3c9f8bcda76b2c9b1648e656b9bb7e64.ctex"
+path="res://.godot/imported/lockRedBottom.png-c14793c0de8c15659a157cf1bb90230d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/lockRedBottom.png"
-dest_files=["res://.godot/imported/lockRedBottom.png-3c9f8bcda76b2c9b1648e656b9bb7e64.ctex"]
+source_file="res://assets/PNG/Other/lockRedBottom.png"
+dest_files=["res://.godot/imported/lockRedBottom.png-c14793c0de8c15659a157cf1bb90230d.ctex"]
 
 [params]
 

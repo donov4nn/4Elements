@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buifo0ava01d3"
-path="res://.godot/imported/doorGreen_lock.png-46b4542f5f0dac2bf4c97d43897863fb.ctex"
+path="res://.godot/imported/doorGreen_lock.png-6be41bd28673725bc1cbf6aeecd962fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/doorGreen_lock.png"
-dest_files=["res://.godot/imported/doorGreen_lock.png-46b4542f5f0dac2bf4c97d43897863fb.ctex"]
+source_file="res://assets/PNG/Other/doorGreen_lock.png"
+dest_files=["res://.godot/imported/doorGreen_lock.png-6be41bd28673725bc1cbf6aeecd962fc.ctex"]
 
 [params]
 

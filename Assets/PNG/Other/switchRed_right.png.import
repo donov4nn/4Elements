@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0yhasr6djv27"
-path="res://.godot/imported/switchRed_right.png-209ad5816cb696cd0d43a4a7c735cbe3.ctex"
+path="res://.godot/imported/switchRed_right.png-96d603f3f5e430336f430e385d178225.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/switchRed_right.png"
-dest_files=["res://.godot/imported/switchRed_right.png-209ad5816cb696cd0d43a4a7c735cbe3.ctex"]
+source_file="res://assets/PNG/Other/switchRed_right.png"
+dest_files=["res://.godot/imported/switchRed_right.png-96d603f3f5e430336f430e385d178225.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu5eqgcbtoqfd"
-path="res://.godot/imported/blockGrey_broken.png-ed3bcb7cf6d487b9699beeb01c66425a.ctex"
+path="res://.godot/imported/blockGrey_broken.png-62ae199be50545505a2fd6b6f1b63633.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PNG/Other/blockGrey_broken.png"
-dest_files=["res://.godot/imported/blockGrey_broken.png-ed3bcb7cf6d487b9699beeb01c66425a.ctex"]
+source_file="res://assets/PNG/Other/blockGrey_broken.png"
+dest_files=["res://.godot/imported/blockGrey_broken.png-62ae199be50545505a2fd6b6f1b63633.ctex"]
 
 [params]
 
