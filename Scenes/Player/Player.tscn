@@ -1,22 +1,17 @@
-[gd_scene load_steps=5 format=3 uid="uid://d3xf023rxuw4g"]
+[gd_scene load_steps=4 format=3 uid="uid://d3xf023rxuw4g"]
 
-[ext_resource type="Script" path="res://scripts/Player.gd" id="1_va77o"]
-[ext_resource type="Texture2D" uid="uid://bhqyk17i2l23g" path="res://assets/PNG/Players/Player Blue/playerBlue_stand.png" id="2_482p2"]
-[ext_resource type="Script" path="res://addons/wiggly_appendage_2d/wiggly_appendage_2d.gd" id="3_tpxnk"]
+[ext_resource type="Script" path="res://scripts/player.gd" id="1_tfaqq"]
+[ext_resource type="Texture2D" uid="uid://bhqyk17i2l23g" path="res://assets/PNG/Players/Player Blue/playerBlue_stand.png" id="2_3omh8"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_18km7"]
 radius = 22.0
 height = 54.0
 
 [node name="Player" type="CharacterBody2D"]
-script = ExtResource("1_va77o")
+script = ExtResource("1_tfaqq")
 
 [node name="Hitbox" type="CollisionShape2D" parent="."]
 shape = SubResource("CapsuleShape2D_18km7")
 
 [node name="Sprite" type="Sprite2D" parent="."]
-texture = ExtResource("2_482p2")
-
-[node name="WigglyAppendage2D" type="Line2D" parent="."]
-points = PackedVector2Array(0, 0, 26.25, 0, 45, 0, 60, 0, 75, 0, 90, 0, 105, 0, 120, 0, 135, 0, 150, 0)
-script = ExtResource("3_tpxnk")
+texture = ExtResource("2_3omh8")
