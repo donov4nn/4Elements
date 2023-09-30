@@ -1,7 +1,15 @@
-[gd_scene format=3 uid="uid://d3xf023rxuw4g"]
+[gd_scene load_steps=3 format=3 uid="uid://d3xf023rxuw4g"]
 
-[node name="Player" type="Node2D"]
+[ext_resource type="Texture2D" uid="uid://bhqyk17i2l23g" path="res://Assets/PNG/Players/Player Blue/playerBlue_stand.png" id="1_a82um"]
 
-[node name="Sprite" type="Sprite2D" parent="."]
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_18km7"]
+radius = 22.0
+height = 54.0
+
+[node name="Player" type="CharacterBody2D"]
 
 [node name="Hitbox" type="CollisionShape2D" parent="."]
+shape = SubResource("CapsuleShape2D_18km7")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+texture = ExtResource("1_a82um")
