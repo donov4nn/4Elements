@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bwkrycj6c4vj3"]
+
+[ext_resource type="Script" path="res://scripts/BasePower.gd" id="1_gv8id"]
+
+[node name="BasePower" type="Node2D"]
+script = ExtResource("1_gv8id")
+
+[node name="Lines" type="Node2D" parent="."]
