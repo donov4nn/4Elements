@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://djscupcj80bwv"
-path="res://.godot/imported/cloudLayerB2.png-bd6a4707ae5831b12d41f418610d6b00.ctex"
+uid="uid://cp50ikmp5g6me"
+path="res://.godot/imported/hillsLarge.png-2cd4fca604355076aa9a07baba31100c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Backgrounds/Other_background/Backgrounds/Elements/cloudLayerB2.png"
-dest_files=["res://.godot/imported/cloudLayerB2.png-bd6a4707ae5831b12d41f418610d6b00.ctex"]
+source_file="res://assets/PNG/Backgrounds/Backgrounds/Elements/hillsLarge.png"
+dest_files=["res://.godot/imported/hillsLarge.png-2cd4fca604355076aa9a07baba31100c.ctex"]
 
 [params]
 

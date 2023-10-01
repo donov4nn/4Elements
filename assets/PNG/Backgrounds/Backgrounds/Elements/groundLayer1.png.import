@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cush67tbph41i"
-path="res://.godot/imported/backgroundColorFall.png-5a0e29e987ce865322295d288cdd7b10.ctex"
+uid="uid://d3pk2kur30jwg"
+path="res://.godot/imported/groundLayer1.png-899dacd1218b8b4f3d1b6b7b6709ce6a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Backgrounds/Other_background/Backgrounds/backgroundColorFall.png"
-dest_files=["res://.godot/imported/backgroundColorFall.png-5a0e29e987ce865322295d288cdd7b10.ctex"]
+source_file="res://assets/PNG/Backgrounds/Backgrounds/Elements/groundLayer1.png"
+dest_files=["res://.godot/imported/groundLayer1.png-899dacd1218b8b4f3d1b6b7b6709ce6a.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://1cwdhh25fyk0"
-path="res://.godot/imported/backgroundColorGrass.png-8ceebed5d53839829cac0fc42780674f.ctex"
+uid="uid://djscupcj80bwv"
+path="res://.godot/imported/cloudLayerB2.png-7880b0a2f6b5a80ac41749e4a208d276.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Backgrounds/Other_background/Backgrounds/backgroundColorGrass.png"
-dest_files=["res://.godot/imported/backgroundColorGrass.png-8ceebed5d53839829cac0fc42780674f.ctex"]
+source_file="res://assets/PNG/Backgrounds/Backgrounds/Elements/cloudLayerB2.png"
+dest_files=["res://.godot/imported/cloudLayerB2.png-7880b0a2f6b5a80ac41749e4a208d276.ctex"]
 
 [params]
 

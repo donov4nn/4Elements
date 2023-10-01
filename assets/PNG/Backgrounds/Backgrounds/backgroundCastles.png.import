@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d3pk2kur30jwg"
-path="res://.godot/imported/groundLayer1.png-42321a07ede89fd208d7bf0dbe10b6d3.ctex"
+uid="uid://doxr1s2rqqxhn"
+path="res://.godot/imported/backgroundCastles.png-67e527384b15b95e6abcd4b55bc873f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Backgrounds/Other_background/Backgrounds/Elements/groundLayer1.png"
-dest_files=["res://.godot/imported/groundLayer1.png-42321a07ede89fd208d7bf0dbe10b6d3.ctex"]
+source_file="res://assets/PNG/Backgrounds/Backgrounds/backgroundCastles.png"
+dest_files=["res://.godot/imported/backgroundCastles.png-67e527384b15b95e6abcd4b55bc873f8.ctex"]
 
 [params]
 

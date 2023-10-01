@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d4ixf05ujxgg1"
-path="res://.godot/imported/backgroundColorDesert.png-76dc988e0abaa789998967caaa27e476.ctex"
+uid="uid://di7iuljqdsmc6"
+path="res://.godot/imported/backgroundColorForest.png-3b91e66c572e3ee106ff8a555266949e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Backgrounds/Other_background/Backgrounds/backgroundColorDesert.png"
-dest_files=["res://.godot/imported/backgroundColorDesert.png-76dc988e0abaa789998967caaa27e476.ctex"]
+source_file="res://assets/PNG/Backgrounds/Backgrounds/backgroundColorForest.png"
+dest_files=["res://.godot/imported/backgroundColorForest.png-3b91e66c572e3ee106ff8a555266949e.ctex"]
 
 [params]
 

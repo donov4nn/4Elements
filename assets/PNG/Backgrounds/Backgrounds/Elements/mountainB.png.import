@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://fgcjli0lcuj"
-path="res://.godot/imported/backgroundDesert.png-d21c2e4bc307a083a202165466d6799f.ctex"
+uid="uid://c226mebcmuaym"
+path="res://.godot/imported/mountainB.png-6c3714e553f4c41ac742fa914bcdd2c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Backgrounds/Other_background/Backgrounds/backgroundDesert.png"
-dest_files=["res://.godot/imported/backgroundDesert.png-d21c2e4bc307a083a202165466d6799f.ctex"]
+source_file="res://assets/PNG/Backgrounds/Backgrounds/Elements/mountainB.png"
+dest_files=["res://.godot/imported/mountainB.png-6c3714e553f4c41ac742fa914bcdd2c2.ctex"]
 
 [params]
 
